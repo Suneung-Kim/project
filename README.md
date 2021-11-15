@@ -21,11 +21,13 @@ python test.py --config_file configs/se_resnet18.yaml
 python cam_test.py --model se_resnet18
 ```
 
-pretrained model은 밑의 링크에서 다운받을 수 있습니다.
+pretrained model과 데이터셋은 밑의 링크에서 다운받을 수 있습니다.
+
+-- pretrained model
 
 https://drive.google.com/file/d/1FV0SMQLFP-t17sJ8UuoCb03EAOU_ga0w/view?usp=sharing
 
-dataset
+-- dataset
 
 https://drive.google.com/file/d/1Lxlwiz2xXBBWJCTX4S1TbAS-JMRoni7Z/view?usp=sharingdataset
 
