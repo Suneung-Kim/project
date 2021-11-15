@@ -29,7 +29,7 @@ dataset
 
 https://drive.google.com/file/d/1Lxlwiz2xXBBWJCTX4S1TbAS-JMRoni7Z/view?usp=sharingdataset
 
-## Se_resnet training result
+## Training result (Se_resnet)
 
 ![학습결과](https://user-images.githubusercontent.com/70845599/141709257-be45b64a-9395-4850-8104-9a3f65db58d1.png)
 
