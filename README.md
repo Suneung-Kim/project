@@ -32,3 +32,11 @@ https://drive.google.com/file/d/1Lxlwiz2xXBBWJCTX4S1TbAS-JMRoni7Z/view?usp=shari
 ## Se_resnet training result
 
 ![학습결과](https://user-images.githubusercontent.com/70845599/141709257-be45b64a-9395-4850-8104-9a3f65db58d1.png)
+
+## Test result
+
+![test 결과](https://user-images.githubusercontent.com/70845599/141709382-f940e7c6-7129-4e27-bdb0-4768e2100ad5.png)
+
+## Cam_result
+
+
