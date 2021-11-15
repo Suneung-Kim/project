@@ -35,7 +35,7 @@ https://drive.google.com/file/d/1Lxlwiz2xXBBWJCTX4S1TbAS-JMRoni7Z/view?usp=shari
 
 ## Test result
 
-![test 결과](img src = "https://user-images.githubusercontent.com/70845599/141709382-f940e7c6-7129-4e27-bdb0-4768e2100ad5.png" width="50%"|height="50%")
+![test 결과](img src = "https://user-images.githubusercontent.com/70845599/141709382-f940e7c6-7129-4e27-bdb0-4768e2100ad5.png" width="50%" height="50%")
 
 ## Cam_result
 
